@@ -151,5 +151,5 @@ This project is currently available for educational and portfolio purposes.
 ---
 
 <p align="center">
-  **HabitFlow — Small Steps. Consistent Progress. Big Changes.** 🍃
+  HabitFlow — Small Steps. Consistent Progress. Big Changes. 🍃
 </p>
