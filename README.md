@@ -112,9 +112,10 @@ Press `Command + R` to build and launch HabitFlow.
 
 Screenshots of the application will be added here.
 
-| Home Screen | Statistics | Settings |
-|---|---|---|
-| Coming Soon | Coming Soon | Coming Soon |
+<img width="1206" height="2622" alt="Screenshot iPhone 18 Pro 21-11-2026 at 10 00 41 AM" src="https://github.com/user-attachments/assets/a3037dda-3f8f-45bc-9061-c10aceb29097" />
+<img width="1206" height="2622" alt="Screenshot iPhone 18 Pro 21-11-2026 at 9 59 01 AM" src="https://github.com/user-attachments/assets/77eba8c6-152e-4947-a293-a43a4cc02ee6" />
+<img width="1206" height="2622" alt="Screenshot iPhone 18 Pro 21-11-2026 at 9 58 33 AM" src="https://github.com/user-attachments/assets/3e0f35c8-96ef-433f-bc9b-59dd4e631db0" />
+
 
 ## 🎯 Project Objectives
 
